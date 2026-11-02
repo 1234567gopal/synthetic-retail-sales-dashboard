@@ -7,8 +7,7 @@ A retail business wants to understand which products and regions drive sales, ho
 
 ## Dataset
 - Source: Synthetic (generated) retail sales data
-- Size: [number of rows and columns]
-- Key columns: [e.g., Order Date, Product, Category, Region, Quantity, Sales, Profit]
+- Key columns:  Order Date, Product, Category, Region, Quantity, Sales, Profit
 
 ## Tools Used
 Python, Pandas, Numpy, Power BI, DAX, Power Query, CSV data preparation
